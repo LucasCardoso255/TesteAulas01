@@ -15,11 +15,11 @@ public class Main {
 
             tipo = ler.nextInt();
 
+            double num1, num2, resultado;
 
             switch (tipo) {
                 case 1:
 
-                    double num1, num2, resultado;
 
                     System.out.println("Digite o primeiro número: ");
                     num1 = ler.nextDouble();
